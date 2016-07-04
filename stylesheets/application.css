@@ -1506,6 +1506,9 @@ a:visited,
 #header h1 a {
   color: #1d4e6d;
 }
+#header h1 .breadcrumbs {
+  display: block;
+}
 #sidebar h3 {
   color: #295e82;
 }
