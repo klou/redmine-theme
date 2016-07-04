@@ -413,6 +413,7 @@ a.issue.closed:visited {
   margin: 0;
   padding-bottom: 2px;
   text-align: left;
+  display: block;
 }
 #main-menu ul li a {
   -webkit-user-select: none;
