@@ -408,6 +408,7 @@ a.issue.closed:visited {
 }
 #main-menu ul {
   margin-left: -15px;
+  width: auto;
 }
 #main-menu ul li {
   float: none;
