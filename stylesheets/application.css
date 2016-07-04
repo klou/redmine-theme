@@ -454,6 +454,9 @@ a.issue.closed:visited {
   font-weight: bold;
   text-shadow: none;
 }
+#main-menu .tabs-buttons {
+  display: none;
+}
 #footer {
   border-top: 1px solid #CCCCCC;
   clear: left;
