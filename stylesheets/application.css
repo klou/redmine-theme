@@ -1507,8 +1507,6 @@ a:visited,
 }
 #header h1 {
   color: #e0f2f9;
-  overflow: show;
-  whitespace: wrap;
 }
 #header h1 a {
   color: #1d4e6d;
