@@ -1473,7 +1473,7 @@ dt.time-entry {
   content: "\f0ad";
 }
 #main-menu .tabs-buttons {
-  right: 15px;
+  right: 0px;
   bottom: -24px;
 }
 /*---------- Colors ----------*/
