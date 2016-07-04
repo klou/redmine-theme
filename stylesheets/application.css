@@ -1226,9 +1226,11 @@ input#user_search {
 .icon-file {
   background-image: url(../images/icons/report-paper.png);
 }
+/* Commented out for WikiNG compatibility
 .jstElements .help a {
   background-image: url(../images/icons/question.png) !important;
 }
+*/
 .jstElements button.jstb_strong {
   background-image: url(../images/icons/edit-bold.png);
 }
