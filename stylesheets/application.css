@@ -1467,6 +1467,9 @@ dt.time-entry {
 #main-menu ul li a.settings:before {
   content: "\f0ad";
 }
+#main-menu .tabs-buttons {
+  display: none;
+}
 /*---------- Colors ----------*/
 /* Links */
 a,
