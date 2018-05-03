@@ -1299,18 +1299,22 @@ div.projects h3 {
 }
 div.projects h3 > h3 {
   background: url(../images/22x22/projects.png) no-repeat scroll 0 50% transparent;
+  background-repeat: no-repeat;
   padding-left: 26px;
 }
 div.news h3 {
   background-image: url(../images/22x22/notifications.png);
+  background-repeat: no-repeat;
   padding-left: 26px;
 }
 div.issues h3 {
   background-image: url(../images/22x22/tracker.png);
+  background-repeat: no-repeat;
   padding-left: 26px;
 }
 div.members h3 {
   background-image: url(../images/22x22/users.png);
+  background-repeat: no-repeat;
   padding-left: 26px;
 }
 h3.version {
@@ -1372,61 +1376,51 @@ h3.comments {
   background-image: url(../images/22x22/comment.png);
   padding-left: 26px;
 }
+#activity dt, .journal {
+  background-repeat: no-repeat;
+  padding-left: 20px;
+}
 dt.issue {
   background-image: url(../images/icons/ticket.png);
-  background-repeat: no-repeat;
 }
 dt.issue-edit {
   background-image: url(../images/icons/ticket--pencil.png);
-  background-repeat: no-repeat;
 }
 dt.issue-closed {
   background-image: url(../images/icons/ticket--arrow.png);
-  background-repeat: no-repeat;
 }
 dt.issue-note {
   background-image: url(../images/icons/sticky-note-pin.png);
-  background-repeat: no-repeat;
 }
 dt.changeset {
   background-image: url(../images/icons/gear.png);
-  background-repeat: no-repeat;
 }
 dt.news {
   background-image: url(../images/icons/newspapers.png);
-  background-repeat: no-repeat;
 }
 dt.message {
   background-image: url(../images/icons/balloon.png);
-  background-repeat: no-repeat;
 }
 dt.reply {
   background-image: url(../images/icons/balloons.png);
-  background-repeat: no-repeat;
 }
 dt.wiki-page {
   background-image: url(../images/icons/document--pencil.png);
-  background-repeat: no-repeat;
 }
 dt.attachment {
   background-image: url(../images/icons/paper-clip.png);
-  background-repeat: no-repeat;
 }
 dt.document {
   background-image: url(../images/icons/document.png);
-  background-repeat: no-repeat;
 }
 dt.project {
   background-image: url(../images/icons/block.png);
-  background-repeat: no-repeat;
 }
 dt.time-entry {
   background-image: url(../images/icons/clock.png);
-  background-repeat: no-repeat;
 }
 #search-results dt.issue.closed {
   background-image: url(../images/icons/ticket--arrow.png);
-  background-repeat: no-repeat;
 }
 @font-face {
   font-family: 'FontAwesome';
