@@ -859,6 +859,11 @@ textarea.wiki-edit {
 .tabs ul li {
   padding: 0;
 }
+
+.tabs-buttons {
+  display: none !important;
+}
+
 #context-menu li {
   background: none;
 }
