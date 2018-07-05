@@ -1689,3 +1689,7 @@ body.stealth_on #header {
 #project-jump.drdn {width:100%;}
 .drdn-content .quick-search {margin:1px 3px 3px 3px;}
 
+/* Fixes icon label spacing on Issue Attachments */
+.attachments_fields input.filename {
+  padding-left: 20px;
+}
