@@ -351,6 +351,14 @@ a.issue.closed:visited {
 {
   width: 198px;
   margin-top: 10px;
+
+/*Included to fix Projects Page Columns.  See https://www.redmine.org/issues/26853 */
+#projects-index {
+	column-width: auto;
+	-webkit-column-width: auto;
+	-moz-column-width: auto;
+}
+
 }
 
 #header a {
