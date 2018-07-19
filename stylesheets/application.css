@@ -1368,6 +1368,7 @@ h3.version {
   padding-bottom: 3px !important;
   padding-left: 26px !important;
   padding-top: 3px !important;
+  background-repeat: no-repeat;
 }
 #admin-menu a.projects {
   background-image: url(../images/22x22/projects.png);
